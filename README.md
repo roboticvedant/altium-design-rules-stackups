@@ -7,6 +7,7 @@ JLCPCB design rules and stackups for Altium Designer.
 
 Web-Based Rule Editor
 ---------------------
+<img width="1843" height="813" alt="image" src="https://github.com/user-attachments/assets/67ccf6f0-82a7-48ca-9325-5e5fd06a1b48" />
 
 A minimal HTML editor (`altium-rule-editor.html`) is included for editing .RUL files:
 
