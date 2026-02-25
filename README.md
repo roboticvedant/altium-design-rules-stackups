@@ -3,6 +3,27 @@ jlcpcb-design-rules-stackups
 
 JLCPCB design rules and stackups for Altium Designer.
 
+> **Note:** This repository is forked from [ayberkozgur/jlcpcb-design-rules-stackups](https://github.com/ayberkozgur/jlcpcb-design-rules-stackups). The original provides design rules and stackups. This fork adds a **web-based .RUL file editor** for easy viewing and editing of Altium design rule files directly in your browser.
+
+Web-Based Rule Editor
+---------------------
+
+A minimal HTML editor (`altium-rule-editor.html`) is included for editing .RUL files:
+
+**Features:**
+- Load and parse Altium .RUL files
+- Visual editing of all rule parameters
+- Filter rules by name or type
+- Collapsible rule sections for easy navigation
+- Export modified rules back to .RUL format
+- No installation required - runs entirely in the browser
+
+**Usage:**
+1. Open `altium-rule-editor.html` in any web browser
+2. Load a .RUL file from the `design-rules/altium/` directory
+3. Edit parameters as needed
+4. Save the modified .RUL file
+
 Design rules
 ------------
 
