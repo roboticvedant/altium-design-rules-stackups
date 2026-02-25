@@ -19,10 +19,13 @@ A minimal HTML editor (`altium-rule-editor.html`) is included for editing .RUL f
 - No installation required - runs entirely in the browser
 
 **Usage:**
-1. Open `altium-rule-editor.html` in any web browser
-2. Load a .RUL file from the `design-rules/altium/` directory
-3. Edit parameters as needed
-4. Save the modified .RUL file
+- **Online (Hosted):** Visit the GitHub Pages deployment at: `https://<your-username>.github.io/<repo-name>/altium-rule-editor.html`
+- **Local:** Open `altium-rule-editor.html` in any web browser
+
+**Steps:**
+1. Load a .RUL file from the `design-rules/altium/` directory
+2. Edit parameters as needed
+3. Save the modified .RUL file
 
 Design rules
 ------------
